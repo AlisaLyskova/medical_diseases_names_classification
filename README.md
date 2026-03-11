@@ -1,2 +1,3 @@
-# medical_diseases_names_classification
+# Medical diseases names classification
 Work in progress
+
